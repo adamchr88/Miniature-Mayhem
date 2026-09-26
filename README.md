@@ -7,6 +7,7 @@ The player must explore the environment, avoid hazards and reach the running tap
 ## 🎮 Gameplay Demo
 
 [![Miniature Mayhem Gameplay](minimayhemcover.png)](https://www.youtube.com/watch?v=MT8qLMR0cI4)
+Click image to watch 
 
 ## 🕹️ Features
 
